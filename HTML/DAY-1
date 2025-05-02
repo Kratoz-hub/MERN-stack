@@ -1,0 +1,49 @@
+DAY - 1
+ HTML
+DAY - 1
+Basic Terms In Web
+PROTOCOLS:(it means set of rules to communicate between two applications)
+1. First client make an request to server then server gives request to DataBase
+2. DataBase response back to server then server response back to client
+Web - HTTPS , HTTP
+Mails - POP , SMTP , IMAP
+            DNS , FTP , SSH , etc…,,
+IP ADDRESS:
+(IP - Internet Protocol)
+1. 4 Dots iruku athuku nadula one space irukum antha space iruka place la dash mari irukum intha mari four dash irukum antha oru oru dash kullaiyum (0-255 number irukum)
+FOR EXAMPLE:
+165.234.19.1
+        PUBLIC I.P
+IP =
+        PRIVATE I.P
+2. IP Address vachi mattum than entha website ah irunthalum access panna mudiyum
+
+Websites access panna theva public I.P address venum
+Computer kuda server ah irukalam entha conditions la na 
+Internet
+power
+Ithu rendum iruntha namba system ah server ah maathikalam namba local ah code ah antha server la potu run pannidanum aprm…..
+Namba server two types ah act pannum 
+Public I.P
+Private I.P
+Intha server la iruka code ah access panna public I.P address venum  
+Intha mari ip address nyabagam vachika mudiyathathunala domain name find pannaga intha mari domain name enga vanguvangana Domain Registers la vanguvanga
+
+WHERE WE BUY DOMAIN NAMES….?
+1. GO DADDY
+2. NAMECHEAP
+3. NXT WAVE etc….
+
+DNS MAPPING:
+Ippo namba oru website create panni athuku oru domain name vangurom ok va athuku oru ip address um irukum intha dns mapping la two heading irukum 
+1. PUBLIC I.P
+2. DOMAIN NAME
+Ithula namba ip address and domain name map aagirukum avlo than….
+Same ip mapped with different domains one ip is mapped with only one main domain
+
+URL:(Uniform Resource Locator)
+TLD - TOP LEVEL DOMAIN
+HTML content podurathuku use aaguthu aproo content la two types iruku 
+1. Text based content 
+2. Media based content
+
