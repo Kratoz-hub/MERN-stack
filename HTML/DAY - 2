@@ -1,0 +1,26 @@
+WHY WE ARE USING HTML?
+To put content on our webpage
+MEDIA BASED?
+Image , audio , video etc….,
+TEXT BASED?
+Paragraph , heading etc…,	
+Browser ku namba use panra html version solla use panrathu DOCTYPE
+
+<body>HTML</body>
+Intha mari ethuku one tag open pantu athe mari last slash potu antha tag podurom na athu ending ah mean panrathu soo its closing tag.
+
+TEXT BASED:	
+1.HEADING - Heading <h1>Hello</h1>
+Heading vanthu 6 headings vara potukalam like H1,H2,H3,H4,H5,H6 then one page ku oru heading pothum.oru main content ku namba heading tag use pannuvom.
+
+NOTE:”””
+
+2.PARAGRAPH - <p>helloooo<p>
+Intha mari para va vanthuchuna ipdi paragraph tag use pannanum at the same time intha para tag ulla limit kidaiyathu evlo vena irukalam.
+
+3.BUTTON - <button>click</button>
+Button tag ithu vanthu oru web page la iruka buttons create panrathukaga use panrathu like movie download page download apdi nu oru button irukum atha click pannatha download aagum ithuku than button tag
+
+ELEMENTS - P (ipdi ethuvum illa ma single ah vantha element)
+
+TAGS - <P></P> (ipdi use panrathu tag)
