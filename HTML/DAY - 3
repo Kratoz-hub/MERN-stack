@@ -1,0 +1,73 @@
+Target use panna new tab la open aagum or target use pannalana same tab use aagum
+
+target = “_blank”
+
+Ithu illama parant , self , top nu la options iruku namba than use panni explore pannanum.
+Attributes eppothume element illa ma varathu.
+
+BUTTON tag kullaiyum ANCHOR tag use pannalam or ANCHOR tag kullaiyum BUTTON tag use pannalam ithula eppo prblm varum na PARA tag kulla HEADING tag use pannom na appo error varum intha mari structure change pannom na varum.
+
+href(ATTRIBUTE) just URL hold pannum and html files um eduthukalam.
+
+Oru para la oru sila words mattum bold ah aakanum na <strong>hello</strong> intha mari strong tag use pannanum
+
+LIST TAG
+It has two types
+1. Ordered list
+2. Unordered list 
+
+ORDERED LIST FORMAT 
+<ol>
+   <li>apple</li>
+   <li>orange</li>
+   <li>banana</li>
+</ol>
+  
+Ithu epdi show aagum na 
+1.apple
+2.orange
+3.banana
+
+Ipdi order ah vaum
+
+UNORDERED LIST FORMAT
+<ul>
+     <li>apple</li>
+     <li>orange</li>
+     <li>banana</li>
+</ul>
+
+Ithu epdi show aagum na namba ordered list la paatha mari numbers oda order ah varama like numbers illa ma namba point potu eluthuvom la antha mari varum athan unordered list
+. apple 
+. orange
+. banana
+
+Ipdi unorder ah varum
+
+
+INPUT TAG
+Oru website la namba sign in panrom na email id and password kekum antha mari kekuthula atha intha input tag use panni than pannuvanga. Input tag vanthu self closing tag 
+
+FORMAT
+<input />
+
+Ippo ithula attributes use panna porom 
+
+<input type = “email” />
+<input type = “password” />
+
+Intha mari potom na sign page la lam varum la email and pass kudukura mari boxes create aagidum but antha email ah namba valid email ah or original email ah nu paaka mudiyathu
+Itha epdi find panrathu later paakalam ippo basic form create panratha pathi paakalam
+
+Forms la paragraph tag use panna mudiyathu so athuku bathila label tag use pannaporom ethuku label tag use panrom na ippo oru sign in page la email and password box iruku la athuku mela athavuthu first box mela email and second box mela password apdi nu namakku theriyarthukaga create panrangala athuku than label tag use pannuvom
+
+FORMAT
+
+<label>email<label/>
+<input type = “email” />
+
+
+<label>password<label/>
+<input type = “password” />
+
+Ipdi than antha boxes mela name varuthu.
