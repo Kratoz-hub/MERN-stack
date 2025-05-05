@@ -1,0 +1,51 @@
+REMINDER
+Last ah enna paathom label and input tag vachi antha box create panratha pathi paathom
+
+NOW
+Antha mari create la panniduvom ana athula oru prblm iruku enna na entha input ku enna lebel nu theriyathu browser kum theriyathu athukaga namba MAPPING pannanum input and label la.
+
+<label>email</label>
+<input type = “email” />
+
+<label>password</label>
+<input type = “password” />
+
+Ipdi irukum itha epdi mapping panrathu nu paakalam
+ID and FOR intha two attributes use panni map panna porom
+
+<label for = “email”>email</label>
+<input type = “email” id = “email”/>
+
+Intha mari than map pannanum id la enna kudukuromo athu than for laiyum kudukanum 
+EXAMPLE
+
+<label for = “password”>password</label>
+<input type = “password” id = “password”/>
+
+Ippo browser ku intha input ku intha label nu theriyum.
+
+NEXT 
+Ippo ithu oru form atha epdi create panrathu nu paathom nxt uh atha submit pannanum la athuku enna pannanum already know button use pannanum like
+
+<button>submit</button>
+
+Ipdi use pannuvoma ana ithu epdi use aaganum antha form la namba email and password kuduthu then submit pannanum epdi na
+
+<label for = “email”>email</label>
+<input type = “email” id = “email”/>
+<label for = “password”>password</label>
+<input type = “password” id = “password”/>
+<button>submit</button>
+
+Ipdi irukum but namba starting la irunthu enna paathom form la use panratha paathom but itha form ku epdi submit panrathu ethume illa ma rendu label , input and button create phantom so epdi form ku change pannanum na form tag ah use pannaum ithu ellathaiyum form tag la vaikanum 
+
+<form>
+        <label for = “email”>email</label>
+        <input type = “email” id = “email”/>
+
+        <label for = “password”>password</label>
+        <input type = “password” id = “password”/>
+
+        <button>submit</button>
+</form>
+
