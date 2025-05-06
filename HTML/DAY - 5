@@ -1,0 +1,30 @@
+GIT and GITHUB are different topics
+
+Story ah paakalam itha pathi 
+
+Nan oru company la work panra yen team leader oru project thranga enna na oru form just button mattum vachi ok va nanum one day code type panra nxt day panra intha mari 4 days la antha work ah mudikiran antha click ndra button ah red colour ah vaikiran then yen tl paathutu intha colour ah change pannu then button press pannumpothu oru small animation varanum ithuku 5 days time kuduthurukanga nan enna panrathunu etho code la type panra last ah output paatha empty form iruntha coding um poiduchi 
+
+NOW WHAT ARE THE PROBLEM IN SOFTWARE INDUSTRY
+
+1. Previous code again eduka mudiyathu once poituna avlo than 
+
+Then last ah antha day last la enna enna mo code use panra antha output konduvantan ok va but antha time yen system la problem vantu system off hard drives la corrupt aagitu pendrive la store panniruntha ok retrive pannalam otherwise no way , ithukaga software industry VCS(VERSION CONTROL SYSTEM) ipdi onnu kondu varanga ithu code ah save panni vachikanum but ithuku oru software venum athuku name than GITHUB ithula code la save pannikalam 
+
+VCS has three types
+1.LOCAL VERSION CONTROL SYSTEM(LVCS)
+2.CENTRALIZED VERSION CONTROL SYSTEM(CVCS)
+3.DISTRIBUTED VERSION CONTROL SYSTEM(DVCS)
+
+
+1.LOCAL VERSION CONTROL SYSTEM(LVCS)
+Ithuka save panrathu local repo apdi nu onnu irukum namba library la c drive nu iruka mari code ah local repo la save pannikum ithu than simplest vcs na ithu than but enna prblm na ithu ellame yen lap la than iruku incase virus attack aachu na save pannathum intha lap la than iruku previous day la irunthu code la edukalam but virus attack aachuna ellam poidum itha paathutu than CVCS ah kondu vanthanga 
+
+2.CENTRALIZED VERSION CONTROL SYSTEM(CVCS)
+Ithu enna pannum na ella company ku oru server irukum athula namba store pannikalam antha mari iruku instead of local daily upload pantu download pannunga ana antha server ah attack aachuna code again poidum so they introduced DVCS
+
+3.DISTRIBUTED VERSION CONTROL SYSTEM(DVCS)
+Ithu enna pannuchuna first namba code ah local ah save pannitu again server laiyum save pannanum , its a combination of LVCS and CVCS avlothan.
+
+Server and system same time la crash aaga possibility illa apdi aanalum they give you recovery GIT local ah save panrathuku use aagum and GITHUB server la save panrathuku use aagum 
+
+
